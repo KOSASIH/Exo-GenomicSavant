@@ -1,6 +1,15 @@
 # Exo-GenomicSavant
 Attaining savant-level mastery in the manipulation of extraterrestrial genomes with AI.
 
+# Contents 
+
+- [Description](#description)
+
+
+# Description 
+
+Exo-GenomicSavant is an innovative platform merging artificial intelligence with unparalleled expertise, enabling individuals to achieve savant-like proficiency in altering extraterrestrial genomes. This groundbreaking technology empowers users to navigate and manipulate alien genetic structures, fostering a deep understanding and mastery of genetic manipulation on an interstellar scale. Through this, users can unlock new frontiers in biotechnology, harnessing AI to explore and modify extraterrestrial DNA with exceptional precision and insight.
+
 # Guide 
 
 ```python
