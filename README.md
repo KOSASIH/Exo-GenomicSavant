@@ -6,7 +6,8 @@ Attaining savant-level mastery in the manipulation of extraterrestrial genomes w
 - [Description](#description)
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
-- [Problems To Solve](#problems-to-solve) 
+- [Problems To Solve](#problems-to-solve)
+- [Contributor Guide](#contributor-guide) 
 
 
 # Description 
@@ -117,7 +118,63 @@ The Exo-GenomicSavant technology aims to address several challenges in the field
     Streamlining techniques to scale up genetic manipulation processes for extraterrestrial organisms, aiming to increase efficiency and applicability across various scales of genetic intervention.
 
 16. **Integration with Space Exploration:**
-    Fostering integration with space exploration missions, enabling on-site genetic analysis and modification of extraterrestrial organisms to support and adapt to interstellar exploration and colonization efforts.   
+    Fostering integration with space exploration missions, enabling on-site genetic analysis and modification of extraterrestrial organisms to support and adapt to interstellar exploration and colonization efforts.
+
+# Contributor Guide 
+
+## Exo-GenomicSavant GitHub Repository Contributor Guide
+
+Welcome to the Exo-GenomicSavant GitHub repository! We appreciate your interest in contributing to this innovative project. This guide is intended to assist you in becoming a valued contributor to our open-source platform.
+
+### Getting Started
+
+#### Setting Up the Development Environment
+1. **Fork the Repository:** Click on the "Fork" button in the upper right corner of the repository's page to create your own fork.
+2. **Clone the Repository:** Clone your fork locally using the command:
+   ```
+   git clone https://github.com/KOSASIH/Exo-GenomicSavant.git
+   ```
+3. **Install Dependencies:** Follow the instructions in the README file to set up the required dependencies for the project.
+
+### Contribution Guidelines
+
+#### Branching Strategy
+- Create a new branch for each set of related changes using a descriptive name.
+- Use the following naming convention for your branch: `feature/your-feature` or `fix/your-fix`.
+
+#### Making Changes
+- Make your desired changes or additions, ensuring adherence to the coding style, guidelines, and best practices outlined in the project.
+- Write clear, concise, and descriptive commit messages.
+
+#### Pull Requests
+- Push your changes to your fork.
+- Create a pull request (PR) from your branch to the `main` branch of the original repository.
+- Provide a detailed explanation of the changes introduced in your PR.
+- Ensure all tests and code quality checks pass.
+
+### Code Review
+
+- The maintainers will review your PR. Be open to feedback and make necessary adjustments based on the review.
+- Discuss and address any comments or concerns raised during the review process.
+
+### Collaborative Environment
+
+- We encourage collaboration and constructive discussions. Please engage in discussions, share ideas, and help resolve issues raised by other contributors.
+
+### Contribution Licensing
+
+- Ensure that your contributions comply with the repository's licensing terms. By contributing, you agree to license your work under the project's specified license.
+
+### Code of Conduct
+
+- All contributors are expected to adhere to the project's Code of Conduct. Be respectful and considerate towards other contributors.
+
+Thank you for your interest in contributing to Exo-GenomicSavant! Your contributions play a crucial role in advancing this cutting-edge platform.
+
+For any further queries or assistance, feel free to reach out to the repository maintainers.
+
+Happy Contributing!
+
 
 # Guide 
 
