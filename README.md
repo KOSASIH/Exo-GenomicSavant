@@ -7,7 +7,9 @@ Attaining savant-level mastery in the manipulation of extraterrestrial genomes w
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
 - [Problems To Solve](#problems-to-solve)
-- [Contributor Guide](#contributor-guide) 
+- [Contributor Guide](#contributor-guide)
+- [Guide](#guide)
+- [Aknowledgement](aknowledgement.md) 
 
 
 # Description 
