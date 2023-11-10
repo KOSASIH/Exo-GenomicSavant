@@ -9,6 +9,7 @@ Attaining savant-level mastery in the manipulation of extraterrestrial genomes w
 - [Problems To Solve](#problems-to-solve)
 - [Contributor Guide](#contributor-guide)
 - [Guide](#guide)
+- [Roadmap](#roadmap) 
 - [Aknowledgement](aknowledgement.md) 
 
 
@@ -377,3 +378,38 @@ Explanation:
 2. The `edit_genome` function performs targeted gene editing using the CRISPR-Cas9 system. In this example, it replaces the target gene sequence with the desired modification. You need to replace this code with the actual CRISPR-Cas9 implementation.
 3. The example usage section demonstrates how to use the `load_genome` and `edit_genome` functions. It loads the genome sequence, performs gene editing, and stores the modified sequence in the `edited_sequence` variable.
 4. Finally, it outputs the modified genome sequence in a markdown code block using the `print` statement.
+
+# Roadmap 
+
+## Exo-GenomicSavant Roadmap
+
+### Phase 1: Foundation and Infrastructure (Q1-Q2)
+
+- **Establish Core Technologies:** Develop and refine the AI-driven genome mapping and basic editing tools.
+- **Build Collaborative Platform:** Create a user-friendly, collaborative environment for researchers and enthusiasts to explore and discuss findings.
+- **Data Accumulation:** Gather and organize extraterrestrial genetic data for comprehensive analysis and manipulation.
+
+### Phase 2: Functional Enhancement (Q3-Q4)
+
+- **Advanced Genome Editing Tools:** Implement sophisticated gene splicing modules and predictive AI models for accurate genetic editing and prediction.
+- **Virtual Reality Integration:** Develop immersive virtual labs for hands-on genetic manipulation experiences.
+- **Bioinformatic Libraries Expansion:** Expand the bioinformatic repositories and data visualization tools for a deeper understanding of alien genetic structures.
+
+### Phase 3: Expansion and Application (Year 2)
+
+- **Ethical and Regulatory Frameworks:** Refine and strengthen ethical guidelines and security measures for responsible genetic manipulation.
+- **Scaling Up Genetic Manipulation:** Streamline processes to scale genetic manipulation techniques for broader applicability.
+- **Applications in Biotechnology and Medicine:** Explore practical applications in medicine, biotechnology, and other scientific fields based on genetic discoveries.
+
+### Phase 4: Advanced Features and Integration (Year 3)
+
+- **Interstellar Integration:** Foster collaboration with space exploration missions for on-site genetic analysis and modification support.
+- **Quantum Encryption Enhancement:** Strengthen security protocols using quantum technology for enhanced data protection.
+- **AI-Enhanced Predictive Genetic Engineering:** Develop more advanced models for predicting and suggesting genetic modifications for desired traits.
+
+### Phase 5: Community Expansion and Outreach (Ongoing)
+
+- **Education and Outreach Programs:** Initiate educational programs and workshops to increase accessibility and understanding of the platform.
+- **Community Engagement:** Encourage active participation, discussions, and collaborations among a diverse range of users, including scientists, students, and enthusiasts.
+- **Continuous Improvement:** Regular updates and enhancements based on community feedback and advancements in the field of genetic manipulation.
+
