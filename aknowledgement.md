@@ -20,7 +20,7 @@ Thank you for being part of our journey.
 
 10 November 2023 
 
-[KOSASIH](
+[KOSASIH](https://www.linkedin.com/in/kosasih-81b46b5a) 
 
 Creator Of Exo-GenomicSavant 
 
